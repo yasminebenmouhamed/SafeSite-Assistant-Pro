@@ -1,0 +1,12 @@
+[
+  {"question":"Who coordinates site induction?","expected":"Nadia Ben Salem","source":"01_site_induction.md","unanswerable":false},
+  {"question":"On which days does the induction briefing take place?","expected":"Monday and Thursday","source":"01_site_induction.md","unanswerable":false},
+  {"question":"Which form is used for incident notifications?","expected":"IN-04","source":"02_incident_reporting.md","unanswerable":false},
+  {"question":"When is the incident log reviewed?","expected":"Friday at 15:00","source":"02_incident_reporting.md","unanswerable":false},
+  {"question":"What is the equipment record system called?","expected":"Digital Asset Register","source":"03_equipment_records.md","unanswerable":false},
+  {"question":"Who administers the equipment records?","expected":"Karim Haddad","source":"03_equipment_records.md","unanswerable":false},
+  {"question":"What system stores training completion records?","expected":"Learning Register","source":"04_training_records.md","unanswerable":false},
+  {"question":"Who leads the Training Office?","expected":"Leila Mansour","source":"04_training_records.md","unanswerable":false},
+  {"question":"What is the CEO's annual salary?","expected":"I could not find this in the safety documents.","source":null,"unanswerable":true},
+  {"question":"What is the maximum scaffold load in kilograms?","expected":"I could not find this in the safety documents.","source":null,"unanswerable":true}
+]
